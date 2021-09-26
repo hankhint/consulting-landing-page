@@ -17,8 +17,8 @@ https://hankhint.github.io/urbanOcto/
 ## Real Accessibility
 Horiseon's header has some weird coloring for colorblind people like me.  I couldn't see that it said SEO in the title, so I thought it was a really strange name until I started consolidating the HTML and saw the text in side the tag. Some higher contrast colors might be more effective.
 
-##Why The Repo is called urbanOcto
+## Why The Repo is called urbanOcto
 I could have sworn I read that this Challenge had a scenario where I was hired by a company called Urban Octogan.  But, I must have been dreaming because I can't find that anywhere now.
 
-##Adequately Moderated Amounts of Coffee
+## Adequately Moderated Amounts of Coffee
 Only a single cup. 

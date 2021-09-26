@@ -21,4 +21,4 @@ Horiseon's header has some weird coloring for colorblind people like me.  I coul
 I could have sworn I read that this Challenge had a scenario where I was hired by a company called Urban Octogan.  But, I must have been dreaming because I can't find that anywhere now.
 
 ## Adequately Moderated Amounts of Coffee
-Only a single cup. 
+Only a single cup.  🎃
